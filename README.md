@@ -3,9 +3,3 @@
 A classification project solving the "Who survived the Titanic crash?" problem.
 
 This is a learning project to practice the E2E classification project process. Main focuses were classification, transformers and pipelines. There was also some work around hyperparameter tuning using GridSearchCV and RandomizedSearchCV. 
-
-This project was completed in order to:
-- Practice the E2E data science process.
-- Learn how to participate in a Kaggle Competition
-- Practice classification and pipelines
-
