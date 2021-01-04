@@ -1,8 +1,8 @@
 # Titanic Classification - Learning Project
 
-This is a classification learning project done using Jupyter Notebook. The purpose of the project is to solve the well known Titanic problem: which passengers will survive the Titanic crash?
+This is a classification learning project done using Jupyter Notebook. The purpose of this project is to solve the well known Titanic problem: which passengers will survive the Titanic crash?
 
-Main focuses in this project are:
+The main focuses of this learning project are:
 - classification models
 - transformers
 - pipelines
